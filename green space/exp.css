@@ -1,0 +1,77 @@
+.header1{
+      display: flex;
+    }
+    .logo1 img{
+      padding-top: 15px;
+    }
+    .p1 span{
+      padding-left: 30px;
+      font-weight: bolder;
+      font-size: 27px;
+      color: rgb(24, 124, 24);
+    }
+    /* header */
+    .header{
+      display: flex;
+    
+    }
+    /* navbar */
+    .navbar{
+      margin-left: 920px;
+    }
+    .nav a{
+      display: inline-block;
+      padding: 30px;
+      text-decoration: none;
+      color: rgb(24, 124, 24);
+    }
+    /* section */
+    .section{
+         margin-bottom: 30px;
+         display: flex;
+    }
+    .heading {
+     margin-left: 400px;
+     margin-top: 50px;
+    }
+    .heading p{
+     line-height: 25px;
+     color: rgb(22, 101, 22);
+    }
+    .heading button{
+     border: 1px solid rgb(24, 103, 24);
+     border-radius: 10px;
+     border-width: 15px;
+     color: white;
+     background-color: rgb(24, 103, 24);  
+    }
+    /* our services */
+    .services{
+      background-color: rgb(177, 213, 177);
+      width: 1520px;
+      height: 800px;
+    }
+    .para1 p:nth-child(1){
+      font-size: 40px;
+      font-weight: bold;
+      color:  rgb(22, 101, 22);
+      margin-bottom: 20px;
+    }
+    .para1 p:nth-child(2){
+      line-height: 20px;
+      color:  rgb(24, 103, 24);
+      font-weight: 600;
+    }
+    .para1{
+      margin-left: 400px;
+    }
+    /* image slider */
+    /* Import Google font - Poppins */
+    .text{
+      margin-left: 500px;
+    }
+    .text p{
+        font-size: 30px;
+        font-weight: bold;
+    }
+    /* Import Google font - Poppins */
